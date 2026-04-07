@@ -1,2 +1,2 @@
-print("hi!!!^^/~")
-print("thanks!!!!!")
+print("hi!^^/~")
+print("thanks!")
